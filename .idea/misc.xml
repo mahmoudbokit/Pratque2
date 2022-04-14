@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/dialog/src/main/res/layout/activity_dialog.xml" value="0.1796875" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/dialog/src/main/res/layout/dialog.xml" value="0.1796875" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/intentfilter/src/main/res/layout/activity_main_intent_filter.xml" value="0.1796875" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/lifecycleactivity/src/main/res/layout/activity_main_lifecycle.xml" value="0.1796875" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/multiactivity/src/main/res/layout/activity_main_multi.xml" value="0.1796875" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/multiactivity/src/main/res/layout/activity_second.xml" value="0.1796875" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/notificationapp/src/main/res/layout/activity_notification_app.xml" value="0.1640625" />
+        <entry key="..\:/Users/Hp/AndroidStudioProjects/Pratque2/toast/src/main/res/layout/activity_toast.xml" value="0.1640625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
